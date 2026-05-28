@@ -6,3 +6,4 @@ def divide(a, b):
 
 print(add(5, 3))
 print(divide(10, 0,0))  # This will cause error
+consoel log("output")
